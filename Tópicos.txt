@@ -1,0 +1,47 @@
+
+
+1 - O que é o MapStruct e o que ele resolve?
+
+
+
+2 - Explicação do projeto e como mapear sem uma lib;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 - Mapeamento direto e sem esforço: mesmo nome e tipos compatíveis
+
+4 - Mapear entre nomes diferentes e conversões simples
+
+5 - Ignorando propriedades no Mapeamento
+
+6 - Usando o expression = java(...code)
+
+7 - Usando métodos default na interface para conversões complexas
+
+8 - Atualizar parte do target: alterando somente alguns campos com @MappingTarget
+
+9 - Conhecendo a anotação @BeanMapping
+
+10 - Composição com múltiplas fontes para um mesmo objeto de destino
+
+11 - Como mapear Enums
+
+12 -  Generalizando o mapeamento das classes em uma interface separada EntityMapper<DTO, ENTITY>
+
+13 - Mapeamento com autorelacionamentos
